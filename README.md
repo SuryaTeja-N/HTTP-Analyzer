@@ -23,13 +23,13 @@ AI HTTP ANALYZER is an advanced security analysis assistant integrated into Burp
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/alpernae/AIHTTPAnalyzer.git
+    git clone https://github.com/SuryaTeja-N/HTTP-Analyzer.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd AIHTTPAnalyzer
+    cd HTTP-Analyzer
     ```
 
 3. Build the project using Gradle:
@@ -114,7 +114,7 @@ AI-powered extensibility opens up new possibilities for solving challenges that 
 
 ## Author
 
-**ALPEREN ERGEL (@alpernae)**
+**Surya Teja Neerukattu**
 
 ## License
 
